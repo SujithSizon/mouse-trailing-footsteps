@@ -7,6 +7,6 @@ javascript source for footstep effect in tedxbitspilanidubai.com
 <style type="text/css">
   body, #c { margin:0px;}
 </style>
-<script src=trailingfootsteps.js>
+<script src="trailingfootsteps.js" >
 </script>
 ```
